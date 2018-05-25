@@ -1,2 +1,2 @@
-# Lambda_Play
+# lambda-examples
 Coding using Lambda expressions.
